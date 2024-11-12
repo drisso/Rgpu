@@ -1,0 +1,7 @@
+---
+title: "A few experiments with SVD computations in GPU"
+author: "Davide Risso"
+format: html
+editor: source
+---
+
